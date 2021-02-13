@@ -655,6 +655,8 @@ in
 
   adlplug = callPackage ../applications/audio/adlplug { };
 
+  bbfpromix = callPackage ../applications/audio/bbfpromix { };
+
   arc_unpacker = callPackage ../tools/archivers/arc_unpacker { };
 
   tuijam = callPackage ../applications/audio/tuijam { inherit (python3Packages) buildPythonApplication; };

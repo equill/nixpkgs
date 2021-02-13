@@ -4263,6 +4263,12 @@
     githubId = 18501;
     name = "Julien Langlois";
   };
+  equill =  {
+    email = "james@electronic-quill.net";
+    github = "equill";
+    githubId = 611686;
+    name = "James Fleming";
+  };
   jfrankenau = {
     email = "johannes@frankenau.net";
     github = "jfrankenau";
